@@ -19,7 +19,7 @@ public class StoreApp {
             return;
         }
 
-        System.out.println("We carry %s and the price is $%.2f",
-                matchedProduct.getName(), matchedProduct.getPrice());
+        //System.out.println("We carry %s and the price is $%.2f",
+                //matchedProduct.getName(), matchedProduct.getPrice());
     }
 }
